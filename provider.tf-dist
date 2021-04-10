@@ -1,0 +1,5 @@
+provider "google" {
+  project = "YOUR-PROJECT-ID-Here"
+  region  = "your-preference-1"
+  zone    = "your-preference1-a"
+}
